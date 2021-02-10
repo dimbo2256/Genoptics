@@ -1,0 +1,1 @@
+file:///home/dimbo/github/Genoptics/ChIP_Seq_Data/NGS_0859-0878/quality_control_results/0859_fastqc.html
